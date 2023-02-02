@@ -43,3 +43,6 @@ In `functions.js` find the `initialConfig` object. It contains default user sett
 -------
 
 After that, use functions: `setValuesForPage()` and `readValuesFromPage()` to work with the page when you need to save or set values for the page.
+
+## AUTHOR:
+MONEHIN FEYISARA.D
